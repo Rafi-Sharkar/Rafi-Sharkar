@@ -1,16 +1,18 @@
-# Welcome to Refi sharkar's world 👋
+### Hi there 👋, I'm Rafi Sharkar
+#### I am CS student
+![I am CS student](https://studio.youtube.com/channel/UCHFKT_CC1--YTHb3JjbeQqg/editing/images)
 
-<!--
-**Rafi-Sharkar/Rafi-Sharkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want explore,
+--> AI, ML, Data Science 
+-->Software engineering
+-->Web development
+-->Syber Security
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
