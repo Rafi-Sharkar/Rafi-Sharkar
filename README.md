@@ -4,6 +4,10 @@
 
 I'm a Web developer and data Data scientists with exprience in JavaScript, Python and expertise in frameworks like React.js, Node.js, Numpy, Pandas, Matplotlib. I'm a quick learner and  collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+
 - 🌱 I’m currently learning ...
 - 💬 Ask me about **Web Dev and Data Science**
 - 📫 How to reach me **rafisharkar144@gmail.com**
@@ -16,18 +20,39 @@ I'm a Web developer and data Data scientists with exprience in JavaScript, Pytho
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rafi.sharkar.90" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafi.sharkar.90" height="40" width="40" /></a>
-<a href="https://instagram.com/rafi_sharkar_0777" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi_sharkar_0777" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/rafi-sharkar-a8992b1a9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-sharkar-a8992b1a9" height="40" width="40" /></a>
-<a href="https://discord.gg/5xaCCQRttf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5xaCCQRttf" height="45" width="45"/></a>
-</p>
+  <a href="https://fb.com/rafi.sharkar.90" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/rafi_sharkar_0777" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/5xaCCQRttf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://linkedin.com/in/rafi-sharkar-a8992b1a9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-
-
+</br>
+<div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-Sharkar&show_icons=true&locale=en&layout=compact" alt="Rafi_Sharkar_0777" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&locale=en" alt="Rafi_Sharkar_0777" /></p>
+<div align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&locale=en" alt="Rafi_Sharkar_0777" /></p>
+</div>
+</br>
+</br>
+<div align="left">
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rafi-Sharkar/count.svg?"  />
+</div>
+
+
