@@ -50,11 +50,6 @@ I'm a Web developer and data Data scientists with exprience in JavaScript, Pytho
 <div align="left">
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p>
 </div>
-##Git status
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&theme=ayu-mirage&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Sharkar&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- <br>
- <br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rafi-Sharkar/count.svg?"  />
