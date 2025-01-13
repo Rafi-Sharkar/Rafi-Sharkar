@@ -48,7 +48,7 @@ I'm a Web developer and data Data scientists with exprience in JavaScript, Pytho
 </br>
 </br>
 <div align="left">
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p>
+<!-- <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p> -->
 </div>
 
 <div align="center">
