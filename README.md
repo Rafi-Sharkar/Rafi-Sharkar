@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Rafi-Sharkar&label=PROFILE+VIEWS&color=blue&style=plastic)
 
-I'm a Web developer and data Data scientists with exprience in JavaScript, Python and expertise in frameworks like React.js, Node.js, Numpy, Pandas, Matplotlib. I'm a quick learner and  collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+My name is Mustakim Billah Rafi. My pivotal interest is in Data Science and AI, ML, NLP, DL. I continue my BSc degree in Computer Science and Engineering from Independent University Bangladesh. Currently, I am learning different machine learning method. I have an experience on MERN stack web development, to build requirement based user-friendly project. Also have good communication skill with team handling experience.
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
