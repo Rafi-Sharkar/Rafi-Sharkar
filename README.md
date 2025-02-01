@@ -34,22 +34,17 @@ My name is Mustakim Billah Rafi. My pivotal interest is in Data Science and AI, 
   </a>
   <a href="https://linkedin.com/in/rafi-sharkar-a8992b1a9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    
   </a>
 </div>
 
 </br>
-<div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-Sharkar&show_icons=true&locale=en&layout=compact" alt="Rafi_Sharkar_0777" /></p>
-</div>
 
-<div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&locale=en" alt="Rafi_Sharkar_0777" /></p>
-</div>
-</br>
-</br>
-<div align="left">
-<!-- <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi_Sharkar_0777" /></p> -->
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-Sharkar&show_icons=true&locale=en&layout=compact" alt="Rafi-Sharkar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&locale=en" alt="Rafi-Sharkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi-Sharkar" /></p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rafi-Sharkar/count.svg?"  />
