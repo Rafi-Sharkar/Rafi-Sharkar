@@ -1,53 +1,43 @@
-### Hi there 👋, I'm Rafi SharKar
+# Hi there, I’m Mustakim Billah Rafi 👋
 
-![](https://komarev.com/ghpvc/?username=Rafi-Sharkar&label=PROFILE+VIEWS&color=blue&style=plastic)
+### 💻 Full-Stack Developer | Backend & System Design Enthusiast  
 
-My name is Mustakim Billah Rafi. My pivotal interest is in Data Science and AI, ML, NLP, DL. I continue my BSc degree in Computer Science and Engineering from Independent University Bangladesh. Currently, I am learning different machine learning method. I have an experience on MERN stack web development, to build requirement based user-friendly project. Also have good communication skill with team handling experience.
+I’m a **Full-Stack Developer** with solid expertise in **backend development**, **database management**, and **system design**, along with foundational knowledge of frontend technologies.  
+Currently pursuing a **BSc in Computer Science and Engineering** at **Independent University, Bangladesh**, I focus on building **scalable, high-performance applications** and exploring **AI-driven software systems**.
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</div>
+---
 
-- 🌱 I’m currently learning ...
-- 💬 Ask me about **Web Dev and Data Science**
-- 📫 How to reach me **rafisharkar144@gmail.com**
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP%20Server-4B0082?style=for-the-badge&logo=none)
 
-<div align="left">
-<h3 align="left">Connect with me:</h3>
-  <a href="https://fb.com/rafi.sharkar.90" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/rafi_sharkar_0777" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/5xaCCQRttf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://linkedin.com/in/rafi-sharkar-a8992b1a9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    
-  </a>
-</div>
+---
 
-</br>
+### 🤖 Interests
+I’m passionate about **AI and Machine Learning**, particularly exploring how **AI agents can integrate effectively with software systems using MCP servers**.  
+I love combining **intelligent systems with practical software architecture** to deliver impactful, real-world solutions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-Sharkar&show_icons=true&locale=en&layout=compact" alt="Rafi-Sharkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&locale=en" alt="Rafi-Sharkar" /></p>
+### 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Rafi-Sharkar&color=blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&" alt="Rafi-Sharkar" /></p>
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&layout=compact&theme=radical)</br>
+![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Sharkar&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rafi-Sharkar/count.svg?"  />
-</div>
+---
 
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-sharkar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafisharkar144@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://rafi-sharkar-0777.netlify.app)
 
+---
+
+*“Code with scalability, design with purpose, and learn without limits.”*  -Rafi Sharkar
