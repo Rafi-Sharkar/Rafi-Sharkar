@@ -34,18 +34,12 @@ I love combining **intelligent systems with practical software architecture** to
 
 <!--START_SECTION:languages-->
 ```
-Jupyter Notebook ████████████████     82.00%
-TypeScript   ██                   9.71%
-HTML         █                    6.66%
-JavaScript                        0.66%
-Java                              0.37%
-Python                            0.28%
-CSS                               0.17%
-C                                 0.11%
-Dockerfile                        0.02%
-C++                               0.01%
-Makefile                          0.01%
-EJS                               0.00%
+TypeScript   █████████████████    87.15%
+JavaScript   █                    5.93%
+Java         █                    3.32%
+Python       █                    2.52%
+C                                 0.98%
+C++                               0.10%
 ```
 <!--END_SECTION:languages-->
 
