@@ -27,9 +27,20 @@ I love combining **intelligent systems with practical software architecture** to
 ### 📈 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Rafi-Sharkar&color=blue)
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Sharkar&layout=compact&theme=radical)</br>
-![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafi-Sharkar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Sharkar&layout=compact&theme=radical)
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rafisharkar144?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/rafisharkar144/),
+
+
+<!--START_SECTION:languages-->
+Loading...
+<!--END_SECTION:languages-->
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafi-Sharkar&theme=nightowl)
+
+</div>
+
 
 ---
 
