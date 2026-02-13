@@ -35,8 +35,19 @@ jobs:
               });
 
               for (const [lang, bytes] of Object.entries(data)) {
-                totalBytes += bytes;
-                languageStats[lang] = (languageStats[lang] || 0) + bytes;
+
+              // ❌ Ignore unwanted languages
+              if (
+                lang === "Jupyter Notebook" ||
+                lang === "HTML" ||
+                lang === "CSS" ||
+                lang === "Dockerfile" ||
+                lang === "Makefile" ||
+                lang === "EJS"
+                ) continue;
+
+              totalBytes += bytes;
+              languageStats[lang] = (languageStats[lang] || 0) + bytes;
               }
             }
 
