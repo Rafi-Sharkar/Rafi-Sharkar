@@ -1,0 +1,68 @@
+name: Update Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate language stats
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const username = context.repo.owner;
+
+            const repos = await github.paginate(
+              github.rest.repos.listForUser,
+              { username }
+            );
+
+            let totalBytes = 0;
+            let languageStats = {};
+
+            for (const repo of repos) {
+              if (repo.fork) continue;
+
+              const { data } = await github.rest.repos.listLanguages({
+                owner: username,
+                repo: repo.name
+              });
+
+              for (const [lang, bytes] of Object.entries(data)) {
+                totalBytes += bytes;
+                languageStats[lang] = (languageStats[lang] || 0) + bytes;
+              }
+            }
+
+            let output = '';
+
+            const sorted = Object.entries(languageStats)
+              .sort((a, b) => b[1] - a[1]);
+
+            for (const [lang, bytes] of sorted) {
+              const percent = ((bytes / totalBytes) * 100).toFixed(2);
+              const bars = '█'.repeat(Math.round(percent / 5));
+              output += `${lang.padEnd(12)} ${bars.padEnd(20)} ${percent}%\n`;
+            }
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const newReadme = readme.replace(
+              /<!--START_SECTION:languages-->[\s\S]*<!--END_SECTION:languages-->/,
+              `<!--START_SECTION:languages-->\n\`\`\`\n${output}\`\`\`\n<!--END_SECTION:languages-->`
+            );
+
+            fs.writeFileSync('README.md', newReadme);
+      
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update language stats" || echo "No changes"
+          git push
