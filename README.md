@@ -34,9 +34,9 @@ I love combining **intelligent systems with practical software architecture** to
 
 <!--START_SECTION:languages-->
 ```
-TypeScript   ██████████████████   87.50%
-JavaScript   ██                   7.88%
-Java                              2.19%
+TypeScript   ██████████████████   87.74%
+JavaScript   ██                   7.62%
+Java                              2.20%
 Python                            1.66%
 C                                 0.65%
 C++                               0.07%
